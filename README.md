@@ -1,3 +1,7 @@
+<p align="center">
+
+<p align="center"><b>Dx-Ip Tracker</b <code></code></p>
+
 
 
 ## INSTALL WITH TERMUX :
@@ -8,7 +12,9 @@
 * `pkg install python3`
 * `pkg install git`
 * `pip install requests`
-* 'https://github.com/Student820/Team--IP-'
-* 'cd Team--IP-'
-* 'Chmod + x *'
+* `git clone https://github.com/Dark-X369/Dx-Ip.git`
+* `cd Dx-Ip`
+* `chmod +x *`
+* `python3 ip.py -dx <victim ip>`
   
+## DEMO :
