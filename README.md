@@ -1,4 +1,4 @@
-#'𝑻𝒆𝒂𝒎 -𝑰𝑷 '
+
 
 ## INSTALL WITH TERMUX :
 
@@ -8,3 +8,7 @@
 * `pkg install python3`
 * `pkg install git`
 * `pip install requests`
+* 'https://github.com/Student820/Team--IP-'
+* 'cd Team--IP-'
+* 'Chmod + x *'
+  
