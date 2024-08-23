@@ -18,6 +18,8 @@
 * `cd Team--IP-`
 * `chmod +x *`
 * `python '𝑻𝒆𝒂𝒎 -𝑰𝑷.py' -tm <victim ip>`
+<h2 align="center"> <img src="https://github.com/Student820/Team--IP-/blob/main/pc.jpg" width="470" /> </h2>
+
   
 ## * `ꪑ𝑽𝒊𝒄𝒕𝒊𝒎 𝒊𝒑⍟ 𝒓𝒖𝒏➢Python '𝑻𝒆𝒂𝒎 -𝑰𝑷.py' -tm 212.70.117.201`
 
