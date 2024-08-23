@@ -13,8 +13,8 @@
 * `pkg install git`
 * `pip install requests`
 * `git clone https://github.com/Student820/Team--IP-`
-* `cd Dx-Ip`
+* `cd Team--IP-`
 * `chmod +x *`
-* `python3 ip.py -dx <victim ip>`
+* `python '𝑻𝒆𝒂𝒎 -𝑰𝑷.py' -tm <victim ip>`
   
 ## DEMO :
