@@ -1,6 +1,6 @@
 <p align="center">
 
-<p align="center"><b>Dx-Ip Tracker</b <code></code></p>
+<p align="center"><b>Student team-Ip Tracker</b <code></code></p>
 
 
 
@@ -12,7 +12,7 @@
 * `pkg install python3`
 * `pkg install git`
 * `pip install requests`
-* `git clone https://github.com/Dark-X369/Dx-Ip.git`
+* `git clone https://github.com/Student820/Team--IP-`
 * `cd Dx-Ip`
 * `chmod +x *`
 * `python3 ip.py -dx <victim ip>`
